@@ -1,2 +1,2 @@
 HX711
-RPI
+RPi.GPIO
